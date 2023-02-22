@@ -1,0 +1,21 @@
+.Time{
+    text-align: center;
+    padding: 32px;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    white-space: nowrap;
+}
+
+.Time h3{
+    font-size: 32px0;
+    padding-bottom: 5px;
+    display: block;
+    border-bottom: 4px solid;
+}
+
+.Cards{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+    flex-wrap: wrap;
+}

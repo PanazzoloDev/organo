@@ -1,0 +1,14 @@
+.Button button{
+    background: rgb(22, 22, 163);
+    color: white;
+    font-size: 20;
+    padding: 10px 40px;
+    border-radius: 5px;
+    margin-top: 25px;
+    border:none;
+    box-shadow: 5px 5px 10px rgba(0,0,0,0.4);
+}
+
+.Button button:hover{
+    background: rgb(56, 56, 253);
+}

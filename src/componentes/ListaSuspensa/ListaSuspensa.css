@@ -1,0 +1,16 @@
+.Combobox select{
+    width: 100%;
+    padding: 20px;
+    border: none;
+    box-shadow: 10px 5px 5px gray;
+    padding: 15px;
+    font-size: 20px;
+    box-sizing: border-box;
+}
+
+.Combobox label{
+    margin: 10px 10px;
+    display: block;
+    font-size: 26px;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+}

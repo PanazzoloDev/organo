@@ -1,0 +1,20 @@
+.Formulario form{
+    max-width: 80%;
+    background: #f2f2f2;
+    border-radius: 20px;
+    padding: 42px 30px;
+    box-shadow: 8px 8px 16px rgba(0,0,0,0.6);
+}
+
+.Formulario{
+    display: flex;
+    justify-content: center;
+    margin: 80px 0px;
+}
+
+.Formulario h2{
+    font-size: 32px;
+    font-weight: normal;
+    margin-bottom: 45px;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+}
